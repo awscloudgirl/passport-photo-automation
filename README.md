@@ -1,9 +1,8 @@
 # Cloudtopia Passport Office Automation Project
-An AWS project for passport photo automation.
 
-Introducing the Cloudtopia Passport Office Automation Project: Enhancing Passport Photo Validation with Robust Architecture
+![Cloudtopia Passport Office Automation](CloudtopiaPassportPhotoAutomation.png)
 
-As dedicated members of the Cloudtopia Passport Office, we are thrilled to showcase our successful project that revolutionizes the Passport Photo Validation process, addressing key challenges through an intelligently designed architecture.
+## Introducing the Cloudtopia Passport Office Automation Project: Enhancing Passport Photo Validation with Robust Architecture
 
 **Project Overview:**
 Traditionally, citizens applying for passports faced a manual evaluation process for submitted photographs, with strict adherence to guidelines. Our project not only automates this process but also fulfills crucial architectural requirements to ensure efficiency, scalability, and reliability.
@@ -28,5 +27,4 @@ Traditionally, citizens applying for passports faced a manual evaluation process
 6. **API:**
    The API component exposes additional information about evaluation results, providing a seamless interface for retrieving details. This ensures transparency and accessibility, allowing for easy integration with external systems.
 
-**Architecture Requirements:**
-These six themes form the foundation of our architecture, ensuring a comprehensive and well-rounded solution. As you explore our GitHub repository, witness the successful integration of these components, each meticulously designed to meet the high-level requirements of our system.
+These six themes form the foundation of our architecture, ensuring a comprehensive and well-rounded solution. 
