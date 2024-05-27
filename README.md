@@ -5,7 +5,36 @@
 ## Introducing the Cloudtopia Passport Office Automation Project: Enhancing Passport Photo Validation with Robust Architecture
 
 **Project Overview:**
-Traditionally, citizens applying for passports faced a manual evaluation process for submitted photographs, with strict adherence to guidelines. Our project not only automates this process but also fulfills crucial architectural requirements to ensure efficiency, scalability, and reliability.
+Certainly! Here’s the revised version with "I" instead of "we":
+
+---
+
+### Project Overview
+
+Traditionally, citizens applying for passports faced a manual evaluation process for submitted photographs, with strict adherence to guidelines. My project not only automates this process but also fulfills crucial architectural requirements to ensure efficiency, scalability, and reliability.
+
+### Introduction
+
+As an employee of the Cloudtopia Passport Office—a Federal agency responsible for issuing passports to the fine citizens of Cloudtopia—I am tasked with simplifying the Passport Photo Validation process using automation.
+
+Currently, citizens of Cloudtopia who wish to apply for a passport must submit a photograph of themselves. For the photograph to be accepted, it must adhere to strict requirements: the applicant's face must be clearly visible, they must not be wearing sunglasses, their eyes must be open, and they must not be smiling.
+
+For example:
+- An image with the applicant’s eyes closed would fail the evaluation process.
+- An image with the applicant smiling would also fail.
+- An image adhering to all guidelines would be accepted.
+
+In the current Photo Validation process, applicants submit their photographs through a web endpoint. An agency employee then evaluates the image to ensure it adheres to guidelines and either accepts or rejects it, providing a reason for rejection if necessary.
+
+The Cloudtopia Passport Office has three main requirements for this project:
+
+1. **Automation**: Remove the need for a human to evaluate submitted photographs.
+2. **Notifications**: Broadcast notifications to other services within Cloudtopia whenever a photo evaluation is completed.
+3. **API Access**: Provide a means to access the result of the photo evaluation through an API, detailing any reasons for rejection.
+
+By automating the photo validation process, I aim to streamline passport issuance, reduce human error, and improve overall efficiency.
+
+---
 
 ### Key Components:
 
