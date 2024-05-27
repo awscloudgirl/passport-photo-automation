@@ -31,7 +31,7 @@ By automating the photo validation process, I aim to streamline passport issuanc
 
 ---
 
-
+![Core Technology Choices](CloudtopiaPassportPhotoAutomation.png)
 
 ## Core Technology Choices: Powering the Cloudtopia Passport Office Automation Project
 
@@ -56,7 +56,7 @@ By combining these core technologies, my architecture not only fulfills the uniq
 
 ---
 
-
+![S3 & Lambda](s3-lambda.png)
 
 ## S3 Triggers: Automating Image Processing for the Cloudtopia Passport Office Automation Project
 
