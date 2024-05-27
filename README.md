@@ -1,6 +1,6 @@
 # Cloudtopia Passport Office Automation Project
 
-![Cloudtopia Passport Office Automation](CloudtopiaPassportPhotoAutomation.png)
+![Cloudtopia Passport Office Automation](assets/CloudtopiaPassportPhotoAutomation.png)
 
 ## Introducing the Cloudtopia Passport Office Automation Project: Enhancing Passport Photo Validation with Robust Architecture
 
@@ -31,7 +31,7 @@ By automating the photo validation process, I aim to streamline passport issuanc
 
 ---
 
-![Core Technology Choices](CloudtopiaPassportPhotoAutomation.png)
+![Core Technology Choices](assets/CloudtopiaPassportPhotoAutomation.png)
 
 ## Core Technology Choices: Powering the Cloudtopia Passport Office Automation Project
 
@@ -58,7 +58,7 @@ By combining these core technologies, my architecture not only fulfills the uniq
 
 ## S3 Triggers: Automating Image Processing for the Cloudtopia Passport Office Automation Project
 
-![S3 & Lambda](s3lambda.png)
+![S3 & Lambda](assets/s3lambda.png)
 
 To automate the image processing workflow, I will use a feature of S3 called Triggers. S3 Triggers allow you to notify other AWS services when a file gets created, modified, or deleted. For this project, I am interested in using the PUT notification type, which corresponds to file uploads.
 
