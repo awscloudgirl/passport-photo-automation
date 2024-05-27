@@ -35,17 +35,17 @@ By automating the photo validation process, I aim to streamline passport issuanc
 
 In the pursuit of an efficient and scalable solution, I have carefully selected core technologies that seamlessly integrate to deliver a robust Passport Photo Validation system.
 
-**Image Processing**
+***Image Processing***
 **Technology Stack: S3, Lambda, Amazon Rekognition, DynamoDB**
 
 For image processing, I use Amazon S3 to store image files. Upon upload, the system triggers a Lambda function. The Lambda function code calls Amazon Rekognition to evaluate the face in the image, and the results are stored in DynamoDB. This ensures a performant and scalable key-value lookup store for approval/rejection details.
 
-**Notifications**
+***Notifications***
 **Technology Stack: Lambda, Lambda Destinations, SNS (Simple Notification Service)**
 
 For notifications, I leverage a feature of Lambda called Lambda Destinations, which allows piping the results of a Lambda function invocation to another AWS service. In this case, the results are delivered to the SNS (Simple Notification Service) topic. This ensures timely and efficient delivery of messages to client services, promoting a decoupled and resilient microservices architecture.
 
-**Data Retrieval**
+***Data Retrieval***
 **Technology Stack: API Gateway, Lambda, DynamoDB**
 
 For data retrieval, I create an API Gateway endpoint that is hooked up to a Lambda function. This Lambda function queries the DynamoDB database, allowing for swift and accurate retrieval of information related to image evaluations. This cohesive integration ensures a user-friendly API interface for external systems, promoting transparency and accessibility.
