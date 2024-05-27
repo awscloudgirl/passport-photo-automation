@@ -31,7 +31,7 @@ By automating the photo validation process, I aim to streamline passport issuanc
 
 ---
 
-![Core Technology Choices](core.png)
+
 
 ## Core Technology Choices: Powering the Cloudtopia Passport Office Automation Project
 
