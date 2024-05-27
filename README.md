@@ -56,7 +56,7 @@ By combining these core technologies, my architecture not only fulfills the uniq
 
 ---
 
-![S3 & Lambda](s3-lambda.png)
+![S3 & Lambda](s3lambda.png)
 
 ## S3 Triggers: Automating Image Processing for the Cloudtopia Passport Office Automation Project
 
