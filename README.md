@@ -4,11 +4,6 @@
 
 ## Introducing the Cloudtopia Passport Office Automation Project: Enhancing Passport Photo Validation with Robust Architecture
 
-**Project Overview:**
-Certainly! Here’s the revised version with "I" instead of "we":
-
----
-
 ### Project Overview
 
 Traditionally, citizens applying for passports faced a manual evaluation process for submitted photographs, with strict adherence to guidelines. My project not only automates this process but also fulfills crucial architectural requirements to ensure efficiency, scalability, and reliability.
