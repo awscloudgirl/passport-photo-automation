@@ -55,11 +55,3 @@ For data retrieval, I create an API Gateway endpoint that is hooked up to a Lamb
 By combining these core technologies, my architecture not only fulfills the unique requirements of each project phase but also ensures a cohesive and streamlined workflow. As you delve into the GitHub repository, witness the synergy of S3, Lambda, Amazon Rekognition, DynamoDB, Lambda Destinations, SNS, API Gateway, and more, contributing to the success of the Cloudtopia Passport Office Automation Project.
 
 ---
-
-## S3 Triggers: Automating Image Processing for the Cloudtopia Passport Office Automation Project
-
-![S3 & Lambda](assets/s3lambda.png)
-
-To automate the image processing workflow, I will use a feature of S3 called Triggers. S3 Triggers allow you to notify other AWS services when a file gets created, modified, or deleted. For this project, I am interested in using the PUT notification type, which corresponds to file uploads.
-
-When S3 triggers the Lambda function, it will provide the S3 bucket and file details of the uploaded file in the event arguments. This information will be used to interact with Amazon Rekognition, enabling the automated evaluation of passport photos. As you proceed through the following steps, you'll see how S3 Triggers seamlessly integrate with other AWS services to streamline the photo validation process.
