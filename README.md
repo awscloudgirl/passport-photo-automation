@@ -2,6 +2,7 @@
 
 ![Cloudtopia Passport Office Automation](CloudtopiaPassportPhotoAutomation.png)
 
+
 ## Introducing the Cloudtopia Passport Office Automation Project: Enhancing Passport Photo Validation with Robust Architecture
 
 ### Project Overview
@@ -29,9 +30,9 @@ The Cloudtopia Passport Office has three main requirements for this project:
 
 By automating the photo validation process, I aim to streamline passport issuance, reduce human error, and improve overall efficiency.
 
----
 
-![Core Technology Choices](assets/CloudtopiaPassportPhotoAutomation.png)
+![Core Technology Choices](core.png)
+
 
 ## Core Technology Choices: Powering the Cloudtopia Passport Office Automation Project
 
