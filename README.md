@@ -1,6 +1,6 @@
 # Cloudtopia Passport Office Automation Project
 
-![Cloudtopia Passport Office Automation](assets/CloudtopiaPassportPhotoAutomation.png)
+![Cloudtopia Passport Office Automation](CloudtopiaPassportPhotoAutomation.png)
 
 ## Introducing the Cloudtopia Passport Office Automation Project: Enhancing Passport Photo Validation with Robust Architecture
 
